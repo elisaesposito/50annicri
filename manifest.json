@@ -1,0 +1,9 @@
+{
+  "name": "50 anni Cri",
+  "short_name": "50Cri",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffe6f0",
+  "theme_color": "#ffe6f0",
+  "icons": []
+}
